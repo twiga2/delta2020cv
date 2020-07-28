@@ -1,2 +1,2 @@
-# dsa2020cv
-DSA 2020 Computer Vision tutorial materials
+# DSA 2020 Computer Vision materials
+DSA 2020 Computer Vision tutorial helper materials
